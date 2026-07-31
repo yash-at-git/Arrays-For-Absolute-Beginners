@@ -1,9 +1,8 @@
 package ARRAYS_FOUNDATION.PHASE_ONE_Q;
-import java.util.*;
 
 
 //Q. Find the difference between the largest and smallest element.
-public class DiffrnceBtwSmallstLargest {
+public class DifferenceBtwnSmallestAndLargestElemnt {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
         System.out.println(sum(arr));
