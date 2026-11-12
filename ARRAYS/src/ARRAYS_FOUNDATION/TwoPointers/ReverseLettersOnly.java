@@ -35,9 +35,3 @@ public class ReverseLettersOnly {
     }
 }
 
-//            while(l<r && !Character.isLetter(chars[l])){
-//                l++;
-//            }
-//            while(l<r && !Character.isLetter(chars[r])){
-//                r--;
-//            }
